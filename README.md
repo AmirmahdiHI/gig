@@ -1,4 +1,4 @@
-only works in places where you can open github codespaces
+
 
 ## setup
 1. fork the repo
